@@ -43,7 +43,7 @@ export function StudentDashboard() {
           </div>
           <div className="flex flex-col">
             <h1 className="text-lg font-semibold tracking-tight">SBTET CONNECT</h1>
-            <p className="text-xs text-muted-foreground">Student attendance dashboard</p>
+            <p className="text-xs text-muted-foreground">Enter any Telangana Diploma PIN to load the full live record</p>
           </div>
         </div>
         <PinSearch initialPin={pin ?? ""} loading={isLoading} onSearch={handleSearch} />
