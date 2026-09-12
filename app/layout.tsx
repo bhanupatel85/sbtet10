@@ -7,8 +7,8 @@ const _geistSans = Geist({ subsets: ['latin'] })
 const _geistMono = Geist_Mono({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'SBTET CONNECT — Student Attendance',
-  description: 'Check SBTET diploma student attendance by PIN, with a month-by-month attendance calendar.',
+  title: 'SBTET CONNECT — Telangana Polytechnic Student Portal',
+  description: 'A live-source academic companion for Telangana Polytechnic students: attendance, results, syllabus, announcements, admissions, and support.',
   generator: 'v0.app',
   icons: {
     icon: [
